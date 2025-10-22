@@ -1,0 +1,549 @@
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 03:25:33.210964 GMT
+Fri, 26 Sep 2025 03:25:33.233253 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 03:25:33.259332 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 03:25:33.281868 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 03:25:33.281868 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 03:25:33.283166 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 03:25:33.283166 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 03:26:01.719583 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 03:26:01.719583 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 03:26:05.318895 GMT
+Fri, 26 Sep 2025 03:26:05.339916 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 03:26:05.363642 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 03:26:05.390120 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 03:26:05.390120 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 03:26:05.391192 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 03:26:05.391192 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 03:26:14.217101 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 03:26:33.359697 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/FrontCamera
+Fri, 26 Sep 2025 03:27:06.732482 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 03:27:08.103470 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 03:27:30.679821 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/FrontCamera
+Fri, 26 Sep 2025 03:27:38.498400 GMT [INFO] Successfully saved videos of 3 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 03:27:38.498485 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 03:27:43.597544 GMT [INFO] Safely unmounted: /media/cai_test_wi/701040AE2EA709FF
+Fri, 26 Sep 2025 03:27:43.606038 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 03:27:45.502754 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 03:28:04.910278 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 03:28:04.910278 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 03:28:09.440065 GMT
+Fri, 26 Sep 2025 03:28:09.460474 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 03:28:09.483965 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 03:28:09.510557 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 03:28:09.510557 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 03:28:09.511626 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 03:28:09.511626 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 06:15:18.107870 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 06:15:37.380984 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/FrontCamera
+Fri, 26 Sep 2025 06:15:45.480926 GMT [INFO] Successfully saved videos of 3 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 06:15:45.480993 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 06:15:57.184286 GMT [INFO] Safely unmounted: /media/cai_test_wi/701040AE2EA709FF
+Fri, 26 Sep 2025 06:15:57.194748 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 06:16:01.171504 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 07:24:49.619664 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 07:24:49.619664 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 07:24:51.240031 GMT
+Fri, 26 Sep 2025 07:24:51.261222 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 07:24:51.286750 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 07:24:51.310803 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:24:51.310803 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:24:51.311502 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:24:51.311502 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:24:55.141342 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 07:25:12.431178 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/FrontCamera
+Fri, 26 Sep 2025 07:25:20.200801 GMT [INFO] Successfully saved videos of 3 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 07:25:20.200866 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 07:25:26.878432 GMT [INFO] Safely unmounted: /media/cai_test_wi/701040AE2EA709FF
+Fri, 26 Sep 2025 07:25:26.886978 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 07:25:33.169032 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 07:26:42.240627 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 07:26:46.727731 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 07:26:46.727731 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 07:30:40.642089 GMT
+Fri, 26 Sep 2025 07:30:40.667351 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 07:30:40.692141 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 07:30:40.716750 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:30:40.716750 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:30:40.718454 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:30:40.718454 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:30:43.435000 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 07:30:50.005027 GMT [INFO] Camera selected: BackCamera (14824 images found)
+Fri, 26 Sep 2025 07:31:07.569994 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/BackCamera
+Fri, 26 Sep 2025 07:31:15.347575 GMT [INFO] Successfully saved videos of 1 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 07:31:15.347648 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 07:31:21.578762 GMT [INFO] Safely unmounted: /media/cai_test_wi/701040AE2EA709FF
+Fri, 26 Sep 2025 07:31:21.582088 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 07:31:23.250995 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 07:31:24.827180 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 07:31:43.718303 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 07:31:48.903372 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 07:31:59.539274 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/FrontCamera
+Fri, 26 Sep 2025 07:32:00.915513 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 07:32:00.915513 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 07:33:31.369712 GMT
+Fri, 26 Sep 2025 07:33:31.393107 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 07:33:31.419612 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 07:33:31.445117 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:33:31.445117 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:33:31.445901 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:33:31.445901 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:33:34.796157 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 07:33:34.796157 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 07:33:39.059094 GMT
+Fri, 26 Sep 2025 07:33:39.084079 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 07:33:39.109556 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 07:33:39.133047 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:33:39.133047 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:33:39.133793 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:33:39.133793 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:33:41.986955 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 07:33:41.986955 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 07:36:49.405740 GMT
+Fri, 26 Sep 2025 07:36:49.428255 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 07:36:49.453130 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 07:36:49.477342 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:36:49.477342 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:36:49.478107 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:36:49.478107 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:36:51.645743 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 07:36:59.697081 GMT [INFO] Camera selected: BackCamera (14824 images found)
+Fri, 26 Sep 2025 07:37:08.837335 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/BackCamera
+Fri, 26 Sep 2025 07:37:13.247946 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 07:37:14.517074 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 07:37:18.698470 GMT [INFO] Finalize not scheduled because processing was aborted.
+Fri, 26 Sep 2025 07:37:27.475478 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 07:37:28.796655 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 07:37:43.072691 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/FrontCamera
+Fri, 26 Sep 2025 07:37:51.211121 GMT [INFO] Successfully saved videos of 3 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 07:37:51.211197 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 07:38:00.701316 GMT [INFO] Safely unmounted: /media/cai_test_wi/701040AE2EA709FF
+Fri, 26 Sep 2025 07:38:00.709506 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 07:38:01.497224 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 07:45:45.712696 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 07:45:45.712696 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 07:45:51.379713 GMT
+Fri, 26 Sep 2025 07:45:51.403765 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 07:45:51.428640 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 07:45:51.451231 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:45:51.451231 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:45:51.451988 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:45:51.451988 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:46:24.520226 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 07:46:24.520226 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 07:46:28.433356 GMT
+Fri, 26 Sep 2025 07:46:28.471681 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 07:46:28.516293 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 07:46:28.539246 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:46:28.539246 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:46:28.540472 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:46:28.540472 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:46:33.125404 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 07:46:33.125404 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 07:46:52.191484 GMT
+Fri, 26 Sep 2025 07:46:52.216248 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 07:46:52.242101 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 07:46:52.267095 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:46:52.267095 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:46:52.267842 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:46:52.267842 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:47:04.691300 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 07:47:04.691300 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 07:47:10.766493 GMT
+Fri, 26 Sep 2025 07:47:10.789230 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 07:47:10.814477 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 07:47:10.838519 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:47:10.838519 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:47:10.839264 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:47:10.839264 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:47:17.051206 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 07:47:17.051206 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 07:48:45.900172 GMT
+Fri, 26 Sep 2025 07:48:45.922492 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 07:48:45.947333 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 07:48:45.971761 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:48:45.971761 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:48:45.972482 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:48:45.972482 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:49:00.396636 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 07:49:00.396636 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 07:49:37.099559 GMT
+Fri, 26 Sep 2025 07:49:37.140201 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 07:49:37.198778 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 07:49:37.223334 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:49:37.223334 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:49:37.224091 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:49:37.224091 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:50:05.415961 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 07:50:05.415961 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 07:52:33.506665 GMT
+Fri, 26 Sep 2025 07:52:33.531619 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 07:52:33.557822 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 07:52:33.584835 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:52:33.584835 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:52:33.585554 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:52:33.585554 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:52:37.491530 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 07:52:37.491530 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 07:54:00.027932 GMT
+Fri, 26 Sep 2025 07:54:00.057861 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 07:54:00.094005 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 07:54:00.118097 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:54:00.118097 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 07:54:00.118950 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:54:00.118950 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 07:55:55.075868 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 07:55:55.075868 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 09:06:13.116635 GMT
+Fri, 26 Sep 2025 09:06:13.139450 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 09:06:13.163974 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 09:06:13.185862 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 09:06:13.185862 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 09:06:13.186574 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 09:06:13.186574 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 09:06:21.505741 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 09:06:21.505741 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 09:07:31.397075 GMT
+Fri, 26 Sep 2025 09:07:31.420144 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 09:07:31.445412 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 09:07:31.468597 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 09:07:31.468597 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 09:07:31.469293 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 09:07:31.469293 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 09:08:09.320399 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 09:08:09.320399 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 09:08:38.658143 GMT
+Fri, 26 Sep 2025 09:08:38.681514 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 09:08:38.707059 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 09:08:38.728673 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 09:08:38.728673 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 09:08:38.729388 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 09:08:38.729388 GMT [INFO] GL: NPOT texture support is available
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 09:11:44.936657 GMT
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 09:11:48.379391 GMT
+Fri, 26 Sep 2025 09:11:52.015654 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 09:11:52.015654 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 09:11:55.002620 GMT
+Fri, 26 Sep 2025 09:11:55.025552 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 09:11:55.050625 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 09:11:55.074492 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 09:11:55.074492 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 09:11:55.075214 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 09:11:55.075214 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 09:12:40.807665 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 09:12:40.807665 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 09:17:39.613714 GMT
+Fri, 26 Sep 2025 09:17:39.637488 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 09:17:39.662723 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 09:17:39.684100 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 09:17:39.684100 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 09:17:39.684875 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 09:17:39.684875 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 09:19:27.194177 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 09:19:27.194177 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 09:20:14.344233 GMT
+Fri, 26 Sep 2025 09:20:14.367534 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 09:20:14.393579 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 09:20:14.417162 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 09:20:14.417162 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 09:20:14.417882 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 09:20:14.417882 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 09:20:19.618246 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 09:20:29.651577 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/FrontCamera
+Fri, 26 Sep 2025 09:20:38.674163 GMT [INFO] Successfully saved videos of 3 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 09:20:38.674238 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 09:20:47.438596 GMT [INFO] Safely unmounted: /media/cai_test_wi/701040AE2EA709FF
+Fri, 26 Sep 2025 09:20:47.451415 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 09:21:15.931290 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 09:21:27.844964 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 09:21:34.536164 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 09:21:36.311734 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 09:21:52.957889 GMT [INFO] Camera selected: RightCamera (10384 images found)
+Fri, 26 Sep 2025 09:22:23.102440 GMT [INFO] Successfully saved videos of 3 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 09:22:23.102511 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 09:22:29.840374 GMT [INFO] Safely unmounted: /media/cai_test_wi/701040AE2EA709FF
+Fri, 26 Sep 2025 09:22:29.846893 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 09:22:31.399921 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 09:22:32.865496 GMT [INFO] Camera selected: RightCamera (10384 images found)
+Fri, 26 Sep 2025 09:22:52.740361 GMT [INFO] Finalize not scheduled because processing was aborted.
+Fri, 26 Sep 2025 09:22:53.775192 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 09:22:55.666780 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 09:22:55.666780 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 09:59:50.564750 GMT
+Fri, 26 Sep 2025 09:59:50.588783 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 09:59:50.614872 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 09:59:50.638402 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 09:59:50.638402 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 09:59:50.639132 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 09:59:50.639132 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 09:59:57.793449 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 10:00:09.881131 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/FrontCamera
+Fri, 26 Sep 2025 10:00:19.400463 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 10:00:21.660588 GMT [INFO] Camera selected: RightCamera (10384 images found)
+Fri, 26 Sep 2025 10:00:38.735939 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/RightCamera
+Fri, 26 Sep 2025 10:00:46.631606 GMT [INFO] Successfully saved videos of 3 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 10:00:46.631711 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 10:00:57.128658 GMT [INFO] Safely unmounted: /media/cai_test_wi/701040AE2EA709FF
+Fri, 26 Sep 2025 10:00:57.133181 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 10:00:58.756337 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 10:01:01.796306 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 10:01:28.610075 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/FrontCamera
+Fri, 26 Sep 2025 10:01:36.343632 GMT [INFO] Successfully saved videos of 3 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 10:01:36.343700 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 10:01:42.522986 GMT [INFO] Safely unmounted: /media/cai_test_wi/701040AE2EA709FF
+Fri, 26 Sep 2025 10:01:42.534663 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 10:01:45.457934 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 10:01:48.154731 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 10:02:09.962612 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/FrontCamera
+Fri, 26 Sep 2025 10:02:17.610728 GMT [INFO] Successfully saved videos of 3 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 10:02:17.610806 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 10:02:21.560375 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 10:02:26.494306 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 10:02:42.793482 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/FrontCamera
+Fri, 26 Sep 2025 10:02:51.094174 GMT [INFO] Successfully saved videos of 3 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 10:02:51.094246 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 10:02:53.060122 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 10:02:55.247383 GMT [INFO] Camera selected: BackCamera (14824 images found)
+Fri, 26 Sep 2025 10:03:09.355303 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/BackCamera
+Fri, 26 Sep 2025 10:03:17.872056 GMT [INFO] Successfully saved videos of 1 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 10:03:17.872126 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 10:03:37.094263 GMT [INFO] Safely unmounted: /media/cai_test_wi/701040AE2EA709FF
+Fri, 26 Sep 2025 10:03:37.103162 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 10:03:38.339545 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 10:03:42.440786 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 10:03:51.753380 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 10:03:53.454746 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 10:04:29.131152 GMT [INFO] Successfully saved videos of 9 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 10:04:29.131226 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 10:06:44.100201 GMT [INFO] Safely unmounted: /media/cai_test_wi/701040AE2EA709FF
+Fri, 26 Sep 2025 10:06:44.113129 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 10:06:45.616035 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 10:06:46.815155 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 10:06:46.815155 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Fri, 26 Sep 2025 11:44:44.149249 GMT
+Fri, 26 Sep 2025 11:44:44.172430 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Fri, 26 Sep 2025 11:44:44.197985 GMT [INFO] Selection screen initialized
+Fri, 26 Sep 2025 11:44:44.223949 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 11:44:44.223949 GMT [INFO] Base: Start application main loop
+Fri, 26 Sep 2025 11:44:44.224916 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 11:44:44.224916 GMT [INFO] GL: NPOT texture support is available
+Fri, 26 Sep 2025 11:44:48.085130 GMT [INFO] Camera selected: LeftCamera (10234 images found)
+Fri, 26 Sep 2025 11:45:11.012487 GMT [INFO] Successfully saved videos of 2 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 11:45:11.012557 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 11:45:19.078580 GMT [INFO] Safely unmounted: /media/cai_test_wi/701040AE2EA709FF
+Fri, 26 Sep 2025 11:45:19.091824 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 11:45:21.217595 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 11:45:25.669839 GMT [INFO] Camera selected: RightCamera (10384 images found)
+Fri, 26 Sep 2025 11:45:43.513560 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/RightCamera
+Fri, 26 Sep 2025 11:45:51.487305 GMT [INFO] Successfully saved videos of 3 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 11:45:51.487377 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 11:46:37.122666 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 11:47:09.664861 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 11:47:21.498819 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/FrontCamera
+Fri, 26 Sep 2025 11:47:29.198826 GMT [INFO] Successfully saved videos of 3 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 11:47:29.198896 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 11:47:32.220910 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 11:48:12.856957 GMT [INFO] Camera selected: RightCamera (10384 images found)
+Fri, 26 Sep 2025 11:48:27.039924 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/RightCamera
+Fri, 26 Sep 2025 11:48:35.039025 GMT [INFO] Successfully saved videos of 3 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 11:48:35.039090 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 11:48:40.094494 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 11:48:43.955345 GMT [INFO] Camera selected: RightCamera (10384 images found)
+Fri, 26 Sep 2025 11:48:59.031456 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/RightCamera
+Fri, 26 Sep 2025 11:49:07.577438 GMT [INFO] Successfully saved videos of 3 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 11:49:07.577510 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 11:49:14.079872 GMT [INFO] Safely unmounted: /media/cai_test_wi/701040AE2EA709FF
+Fri, 26 Sep 2025 11:49:14.087231 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 11:49:16.417554 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 11:54:07.550936 GMT [INFO] Camera selected: BackCamera (14824 images found)
+Fri, 26 Sep 2025 11:54:28.538419 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/BackCamera
+Fri, 26 Sep 2025 11:54:35.901953 GMT [INFO] Successfully saved videos of 1 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 11:54:35.902028 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 11:56:21.290012 GMT [INFO] Safely unmounted: /media/cai_test_wi/701040AE2EA709FF
+Fri, 26 Sep 2025 11:56:21.295351 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 11:56:23.080444 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 11:56:24.954815 GMT [INFO] Camera selected: BackCamera (14824 images found)
+Fri, 26 Sep 2025 11:56:43.233498 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/BackCamera
+Fri, 26 Sep 2025 11:56:50.684470 GMT [INFO] Successfully saved videos of 1 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 11:56:50.684550 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 11:57:02.143695 GMT [INFO] Safely unmounted: /media/cai_test_wi/701040AE2EA709FF
+Fri, 26 Sep 2025 11:57:02.156399 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 11:57:03.571381 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 11:57:05.430432 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 11:57:24.625297 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/FrontCamera
+Fri, 26 Sep 2025 11:57:32.612359 GMT [INFO] Successfully saved videos of 3 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 11:57:32.612432 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 11:57:34.456021 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 11:57:37.588952 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 11:57:52.328351 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/FrontCamera
+Fri, 26 Sep 2025 11:58:00.046158 GMT [INFO] Successfully saved videos of 3 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 11:58:00.046228 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 11:58:01.444401 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 11:58:23.462867 GMT [INFO] Camera selected: LeftCamera (10234 images found)
+Fri, 26 Sep 2025 11:58:34.374621 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/LeftCamera
+Fri, 26 Sep 2025 11:58:45.034669 GMT [INFO] Successfully saved videos of 1 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 11:58:45.034742 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 11:58:47.186099 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 11:58:55.600027 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 11:59:08.546203 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 11:59:08.547183 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 12:02:29.075048 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 12:02:30.357761 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 12:02:31.712391 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 12:02:45.791092 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/FrontCamera
+Fri, 26 Sep 2025 12:02:53.494724 GMT [INFO] Successfully saved videos of 3 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 12:02:53.494852 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 12:03:05.998753 GMT [INFO] Safely unmounted: /media/cai_test_wi/701040AE2EA709FF
+Fri, 26 Sep 2025 12:03:06.004834 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 12:03:07.735128 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 12:03:09.419528 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 12:03:29.355194 GMT [INFO] Deleted old folder: /media/cai_test_wi/701040AE2EA709FF/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/FrontCamera
+Fri, 26 Sep 2025 12:03:37.155947 GMT [INFO] Successfully saved videos of 3 incident(s) to the selected device under the 'Cognitica AI' folder.
+Fri, 26 Sep 2025 12:03:37.156052 GMT [INFO] Device monitor stopped.
+Fri, 26 Sep 2025 12:03:45.400460 GMT [INFO] Safely unmounted: /media/cai_test_wi/701040AE2EA709FF
+Fri, 26 Sep 2025 12:03:45.404483 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 12:03:47.298062 GMT [INFO] UI reset to initial state
+Fri, 26 Sep 2025 12:03:55.845814 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Fri, 26 Sep 2025 12:04:09.489554 GMT [INFO] Base: Leaving application in progress...
+Fri, 26 Sep 2025 12:04:09.489554 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Mon, 29 Sep 2025 04:21:33.634145 GMT
+Mon, 29 Sep 2025 04:21:33.658165 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Mon, 29 Sep 2025 04:21:33.684678 GMT [INFO] Selection screen initialized
+Mon, 29 Sep 2025 04:21:33.705519 GMT [INFO] Base: Start application main loop
+Mon, 29 Sep 2025 04:21:33.705519 GMT [INFO] Base: Start application main loop
+Mon, 29 Sep 2025 04:21:33.706246 GMT [INFO] GL: NPOT texture support is available
+Mon, 29 Sep 2025 04:21:33.706246 GMT [INFO] GL: NPOT texture support is available
+Mon, 29 Sep 2025 04:21:37.679629 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Mon, 29 Sep 2025 04:21:48.712442 GMT [INFO] Device monitor stopped.
+Mon, 29 Sep 2025 04:21:52.411212 GMT [INFO] UI reset to initial state
+Mon, 29 Sep 2025 04:22:12.408604 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Mon, 29 Sep 2025 04:22:31.821448 GMT [INFO] Successfully saved videos of 3 incident(s) to the selected device under the 'Cognitica AI' folder.
+Mon, 29 Sep 2025 04:22:31.821524 GMT [INFO] Device monitor stopped.
+Mon, 29 Sep 2025 04:22:36.287747 GMT [INFO] Safely unmounted: /media/cai_test_wi/0A94104849DC968B
+Mon, 29 Sep 2025 04:22:36.295261 GMT [INFO] UI reset to initial state
+Mon, 29 Sep 2025 04:22:42.644408 GMT [INFO] UI reset to initial state
+Mon, 29 Sep 2025 04:22:49.203870 GMT [INFO] Camera selected: LeftCamera (10234 images found)
+Mon, 29 Sep 2025 04:22:59.578918 GMT [INFO] UI reset to initial state
+Mon, 29 Sep 2025 04:23:02.850161 GMT [INFO] UI reset to initial state
+Mon, 29 Sep 2025 04:23:04.177212 GMT [INFO] UI reset to initial state
+Mon, 29 Sep 2025 04:23:13.098028 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Mon, 29 Sep 2025 04:23:29.845072 GMT [INFO] Deleted old folder: /media/cai_test_wi/0A94104849DC968B/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/FrontCamera
+Mon, 29 Sep 2025 04:23:37.569439 GMT [INFO] Successfully saved videos of 3 incident(s) to the selected device under the 'Cognitica AI' folder.
+Mon, 29 Sep 2025 04:23:37.569597 GMT [INFO] Device monitor stopped.
+Mon, 29 Sep 2025 04:23:39.465015 GMT [INFO] UI reset to initial state
+Mon, 29 Sep 2025 04:23:45.169159 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Mon, 29 Sep 2025 04:23:56.312125 GMT [INFO] Deleted old folder: /media/cai_test_wi/0A94104849DC968B/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/FrontCamera
+Mon, 29 Sep 2025 04:24:01.054556 GMT [INFO] UI reset to initial state
+Mon, 29 Sep 2025 04:24:23.456307 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Mon, 29 Sep 2025 04:24:39.738394 GMT [INFO] Camera selected: BackCamera (14824 images found)
+Mon, 29 Sep 2025 04:25:00.123356 GMT [INFO] Base: Leaving application in progress...
+Mon, 29 Sep 2025 04:25:00.123356 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Mon, 29 Sep 2025 06:58:37.120648 GMT
+Mon, 29 Sep 2025 06:58:37.145461 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Mon, 29 Sep 2025 06:58:37.171983 GMT [INFO] Selection screen initialized
+Mon, 29 Sep 2025 06:58:37.194151 GMT [INFO] Base: Start application main loop
+Mon, 29 Sep 2025 06:58:37.194151 GMT [INFO] Base: Start application main loop
+Mon, 29 Sep 2025 06:58:37.194894 GMT [INFO] GL: NPOT texture support is available
+Mon, 29 Sep 2025 06:58:37.194894 GMT [INFO] GL: NPOT texture support is available
+Mon, 29 Sep 2025 06:58:40.711398 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Mon, 29 Sep 2025 07:00:02.225972 GMT [INFO] Base: Leaving application in progress...
+Mon, 29 Sep 2025 07:00:02.225972 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Mon, 29 Sep 2025 07:04:48.889077 GMT
+Mon, 29 Sep 2025 07:04:48.912514 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Mon, 29 Sep 2025 07:04:48.939033 GMT [INFO] Selection screen initialized
+Mon, 29 Sep 2025 07:04:48.960353 GMT [INFO] Base: Start application main loop
+Mon, 29 Sep 2025 07:04:48.960353 GMT [INFO] Base: Start application main loop
+Mon, 29 Sep 2025 07:04:48.961079 GMT [INFO] GL: NPOT texture support is available
+Mon, 29 Sep 2025 07:04:48.961079 GMT [INFO] GL: NPOT texture support is available
+Mon, 29 Sep 2025 07:04:51.669136 GMT [INFO] Camera selected: FrontCamera (11772 images found)
+Mon, 29 Sep 2025 07:05:09.600833 GMT [INFO] Deleted old folder: /media/cai_test_wi/0A94104849DC968B/Cognitica AI/Vehicle_cai_test_wi/2025-06-17/11.00AM_to_12.00PM/FrontCamera
+Mon, 29 Sep 2025 07:05:17.214641 GMT [INFO] Successfully saved videos of 3 incident(s) to the selected device under the 'Cognitica AI' folder.
+Mon, 29 Sep 2025 07:05:17.214732 GMT [INFO] Device monitor stopped.
+Mon, 29 Sep 2025 07:05:36.601701 GMT [INFO] Safely unmounted: /media/cai_test_wi/0A94104849DC968B
+Mon, 29 Sep 2025 07:05:36.608809 GMT [INFO] UI reset to initial state
+Mon, 29 Sep 2025 07:05:38.614798 GMT [INFO] UI reset to initial state
+Mon, 29 Sep 2025 07:05:46.703107 GMT [INFO] Base: Leaving application in progress...
+Mon, 29 Sep 2025 07:05:46.703107 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Mon, 29 Sep 2025 12:07:13.397935 GMT
+Mon, 29 Sep 2025 12:07:13.424984 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Mon, 29 Sep 2025 12:07:13.453315 GMT [INFO] Selection screen initialized
+Mon, 29 Sep 2025 12:07:13.474291 GMT [INFO] Base: Start application main loop
+Mon, 29 Sep 2025 12:07:13.474291 GMT [INFO] Base: Start application main loop
+Mon, 29 Sep 2025 12:07:13.475013 GMT [INFO] GL: NPOT texture support is available
+Mon, 29 Sep 2025 12:07:13.475013 GMT [INFO] GL: NPOT texture support is available
+Mon, 29 Sep 2025 12:07:16.089693 GMT [INFO] Camera selected: BackCamera (14824 images found)
+Mon, 29 Sep 2025 12:07:45.749537 GMT [INFO] Successfully saved videos of 1 incident(s) to the selected device under the 'Cognitica AI' folder.
+Mon, 29 Sep 2025 12:07:45.749604 GMT [INFO] Device monitor stopped.
+Mon, 29 Sep 2025 12:08:51.808250 GMT [INFO] UI reset to initial state
+Mon, 29 Sep 2025 12:25:39.613552 GMT [INFO] Base: Leaving application in progress...
+Mon, 29 Sep 2025 12:25:39.613552 GMT [INFO] Base: Leaving application in progress...
+
+********************************************************************************
+APP STARTED at Tue, 30 Sep 2025 10:50:05.551898 GMT
+Tue, 30 Sep 2025 10:50:05.575036 GMT [INFO] Local images root assumed at: /home/cai_test_wi/project/forklift_temp_rect
+Tue, 30 Sep 2025 10:50:05.600366 GMT [INFO] Selection screen initialized
+Tue, 30 Sep 2025 10:50:05.621383 GMT [INFO] Base: Start application main loop
+Tue, 30 Sep 2025 10:50:05.621383 GMT [INFO] Base: Start application main loop
+Tue, 30 Sep 2025 10:50:05.622094 GMT [INFO] GL: NPOT texture support is available
+Tue, 30 Sep 2025 10:50:05.622094 GMT [INFO] GL: NPOT texture support is available
+Tue, 30 Sep 2025 10:50:08.378253 GMT [INFO] Base: Leaving application in progress...
+Tue, 30 Sep 2025 10:50:08.378253 GMT [INFO] Base: Leaving application in progress...

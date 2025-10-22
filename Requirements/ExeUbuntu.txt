@@ -1,0 +1,52 @@
+Exe Conversion
+1.sudo chmod 777 ./setup.sh
+2.source ./setup.sh
+3.(env) Pyinstaller --onefile main.py
+4.Spec changes Hidden imports upto 3 lines & add datas 
+5.Del build,dist
+6.(env)./(env name)/bin/pyinstaller main.spec
+7.Desktop file Creation
+
+cd .local/share/applications 
+sudo nano filename.desktop
+
+[Desktop Entry]
+Version=1.0
+Name=Incident Viewer
+Comment=To view incidents for selected date and time     
+Exec=/home/cai_test_wi/project/main                        
+Icon=/home/cai_test_wi/project/viewer.png           
+Terminal=false
+Type=Application
+Categories=Utility;
+StartupWMClass=main
+
+
+Note :
+   Change the Exec and Icon paths to match where the executable and icon are located on your system.
+8.After that Ctrl+O ,enter,Ctrl+x
+
+9.copy the .desktop file from  .local/share/applications and paste the file  in the Desktop folder
+10.Open Terminal and run the command to give permissions
+   sudo chmod 777 filename.desktop
+
+11.If your are having your exe & icon in a separate  folder then give permissions to that folder using
+
+	Open Terminal navigate to that folder : sudo chmod 777 exename iconname
+
+12.Steps to Launch the App
+	Open Terminal run the following commands:
+	sudo chown $USER:$USER ~/Desktop/incident_viewer.desktop
+	chmod +x ~/Desktop/incident_viewer.desktop
+
+	Right click on the incident viewer app in the desktop 
+	Go to properties ->other access->read only & close
+
+	Again Right click on the incident viewer app in the desktop 
+	Click Allow Launching
+
+
+
+
+
+
